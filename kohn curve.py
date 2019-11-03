@@ -14,6 +14,7 @@ def main():
     turtle.pendown()
     turtle.pensize(2)
     turtle.begin_fill()
+    turtle.color('red')
     level = 4
     kohn_curve(400,level)
     turtle.right(120)
