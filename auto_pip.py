@@ -1,4 +1,4 @@
 import os
-libs = ["werobot","sklearn","pyqt5"]
+libs = ["tensorflow","mxnet"]
 for lib in libs:
     os.system("pip install " + lib)
