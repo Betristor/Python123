@@ -1,0 +1,18 @@
+body {
+    font-family: "Times New Roman";
+    background-image: url(Python.png);
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+h1,h2 {
+    font-family: "Gill Sans";
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+}
+/*article p {
+    text-decoration: line-through;
+}
+p :last-child {
+    text-decoration: none;
+}*/
