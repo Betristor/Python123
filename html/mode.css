@@ -1,8 +1,12 @@
 body {
     font-family: "Times New Roman";
-    background-image: url(Python.png);
+    /*background-image: url(Python.png)*/;
     background-repeat: no-repeat;
     background-position-y: bottom;
+}
+h1~p {
+    background-color: lawngreen;
+    border-radius: 25px 20px;
 }
 h1,h2 {
     font-family: "Gill Sans";
